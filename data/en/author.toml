@@ -1,0 +1,28 @@
+[author]
+  name = "Your Name"
+  location = "Your Location"
+  description = "Description ..."
+  profile_image = "/images/your-profile.jpg" # Place in your site's static/images/
+  # Social links
+  github = "https://github.com/yourusername"
+  twitter = "https://twitter.com/yourusername"
+  linkedin = "https://linkedin.com/in/yourusername"
+  email = "your.email@example.com"
+  # ... other social links ...
+
+
+[[certifications]]
+title = "Azure AI Engineering Specialist"
+date = "Dec 2024"
+url = "https://example.com/cert-azure"
+
+[[honors]]
+institution = "Generic College"
+title = "Academic Topper"
+date = "March 2023"
+
+[voluntary]
+role = "Community Lead"
+organization = "Lorem Foundation"
+period = "2020 - Present"
+description = "Sed ut perspiciatis unde omnis iste natus error sit vol"
