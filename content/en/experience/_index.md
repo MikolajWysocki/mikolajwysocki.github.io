@@ -1,5 +1,3 @@
 ---
-title: "Experientia"
+title: "Experience"
 ---
-
-Content...

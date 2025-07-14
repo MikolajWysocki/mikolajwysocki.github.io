@@ -1,6 +1,6 @@
 baseURL = "https://mikolajwysocki.github.io/"
 languageCode = 'en-us'
-title = 'John Doe - Portfolio & Blog'
+title = 'Mikołaj Wysocki - Portfolio & Blog'
 theme = 'hugo-noir' # This is the theme you are using
 
 # URL handling
@@ -18,7 +18,7 @@ defaultContentLanguageInSubdir = true # Creates URLs like /en/blog/
 [languages]
   [languages.en]
     languageName = "English"
-    title = "John Doe - Portfolio & Blog"
+    title = "Mikołaj Wysocki - Portfolio & Blog"
     weight = 1
     contentDir = "content/en"
     [languages.en.menu]
@@ -26,10 +26,10 @@ defaultContentLanguageInSubdir = true # Creates URLs like /en/blog/
         name = "About"
         pageRef = "/about" # Corresponds to content/en/about.md or content/en/about/_index.md
         weight = 1
-      [[languages.en.menu.main]]
-        name = "Experience"
-        pageRef = "/experience"
-        weight = 2
+      # [[languages.en.menu.main]]
+      #   name = "Experience"
+      #   pageRef = "/experience"
+      #   weight = 2
       [[languages.en.menu.main]]
         name = "Projects"
         pageRef = "/projects"
@@ -92,16 +92,16 @@ defaultContentLanguageInSubdir = true # Creates URLs like /en/blog/
 [params]
   # Basic profile information - common across languages
   # This is used by the theme for the author name in the footer, social links, etc.
-  name = "John Doe"
+  name = "Mikołaj Wysocki"
   profile_image = "/images/profile_placeholder.jpg" # Place in your site's static/images/ directory
   # Social and contact information
-  email = "john.doe@example.com"
-  github = "https://github.com/johndoe"
-  github_username = "johndoe"
-  linkedin = "https://linkedin.com/in/johndoe"
-  linkedin_username = "johndoe"
-  twitter = "https://twitter.com/johndoe"
-  twitter_username = "johndoe"
+  email = "mikolajwysocki9999@gmail.com"
+  github = "https://github.com/MikolajWysocki"
+  github_username = "Mikolaj Wysocki"
+  linkedin = "https://www.linkedin.com/in/miko%C5%82aj-wysocki-246b31363/"
+  linkedin_username = "mikołaj-mysocki"
+  # twitter = "https://twitter.com/johndoe"
+  # twitter_username = "johndoe"
   # Add other social links as needed by the theme or your content
   # discord = "johndoe#1234"
   # medium = "https://medium.com/@johndoe"
@@ -112,28 +112,28 @@ defaultContentLanguageInSubdir = true # Creates URLs like /en/blog/
 
   # Example for adding honors/awards (optional, adapt to theme features)
   [[params.honors]]
-    institution = "Lorem University"
-    title = "Summa Cum Laude"
-    date = "May 2020"
+    institution = "Wroclaw University of Science and Technology"
+    title = "Bachelor of Science in Cybersecurity"
+    date = "2022-2027 (Expected)"
 
-  [[params.honors]]
-    institution = "Ipsum Institute"
-    title = "Best Project Award"
-    date = "December 2019"
+  # [[params.honors]]
+  #   institution = "Ipsum Institute"
+  #   title = "Best Project Award"
+  #   date = "December 2019"
 
   # Example for certifications (optional, adapt to theme features)
-  [[params.certifications]]
-    title = "Professional Widget Certification"
-    company = "Widgets Inc."
-    date = "Valid until Jan 2025"
-    url = "https://example.com/certification/123"
+  # [[params.certifications]]
+  #   title = "Professional Widget Certification"
+  #   company = "Widgets Inc."
+  #   date = "Valid until Jan 2025"
+  #   url = "https://example.com/certification/123"
 
   # Example for voluntary work (optional, adapt to theme features)
   [[params.voluntary]]
-    role = "Community Helper"
-    organization = "Local Charity Group"
-    period = "2021 - Present"
-    description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    role = "Director of Administration"
+    organization = "IT Speakers Toastmasters"
+    period = "06.2025 - Present"
+    description = "Maganing administrative tasks, developing various soft skills and supporting members in their public speaking journey."
 
 # Main menu (used as a fallback if language-specific menus are not fully defined or if not using multilingual features)
 # For multilingual sites, it's generally better to define menus within each language block as shown above.
@@ -142,10 +142,10 @@ defaultContentLanguageInSubdir = true # Creates URLs like /en/blog/
     name = "About"
     pageRef = "/about"
     weight = 1
-  [[menu.main]]
-    name = "Experience"
-    pageRef = "/experience"
-    weight = 2
+  # [[menu.main]]
+  #   name = "Experience"
+  #   pageRef = "/experience"
+  #   weight = 2
   [[menu.main]]
     name = "Projects"
     pageRef = "/projects"

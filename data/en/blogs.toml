@@ -1,20 +1,20 @@
 [[blogs]]
-title = "Adipiscing: A Practical Guide"
-date = "2025-02-10"
-summary = "Nam libero tempore, cum soluta nobis est eligendi optio."
-tags = ["Elit", "Tempor", "Guide"]
+title = "Confidentiality System"
+date = "IN PROGRESS"
+summary = "A theoreticaly maximaly confidential system, accounting for ease of use, partnered by a high level overview of currently present confidentiality vectors."
+tags = ["Confidentiality", "Linux"]
 content = """
-Et harum quidem rerum facilis est et expedita distinctio...
+IN PROGRESS
 """
-link = "https://medium.com/@loremipsum/adipiscing-guide"
+link = "https://medium.com/"
 
 
-[[blogs]]
-title = "tytus tutusa tytusem"
-date = "2025-02-10"
-summary = "Nam libero tempore, cum soluta nobis est eligendi optio."
-tags = ["Elit", "Tempor", "Guide"]
-content = """
-Et harum quidem rerum facilis est et expedita distinctio...
-"""
-link = "https://medium.com"
+# [[blogs]]
+# title = "tytus tutusa tytusem"
+# date = "2025-02-10"
+# summary = "Nam libero tempore, cum soluta nobis est eligendi optio."
+# tags = ["Elit", "Tempor", "Guide"]
+# content = """
+# Et harum quidem rerum facilis est et expedita distinctio...
+# """
+# link = "https://medium.com"

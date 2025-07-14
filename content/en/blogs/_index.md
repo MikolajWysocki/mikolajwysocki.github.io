@@ -1,4 +1,4 @@
 ---
-title: "blogss"
+title: "Blogs"
 ---
 Content

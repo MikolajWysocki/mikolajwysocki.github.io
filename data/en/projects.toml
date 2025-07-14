@@ -1,6 +1,6 @@
 [[projects]]
-title = "Project Consectetur"
-description = "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam."
-tech = "Python, TensorFlow, Docker, Redis"
-image = "/images/projects/consectetur.png"
-link = "https://github.com/loremipsum/consectetur"
+title = "SOC Automation Lab"
+description = "A cybersecurity monitoring and response system using Shuffle, Wazuh and TheHive."
+tech = "Wazuh, Shuffle, TheHive"
+image = "/images/projects/diagramprojektu.png"
+link = "https://github.com/MikolajWysocki/SOC-Automation-Project"

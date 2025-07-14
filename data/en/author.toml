@@ -1,28 +1,26 @@
 [author]
-  name = "Your Name"
-  location = "Your Location"
-  description = "Description ..."
+  name = "Mikołaj Wysocki"
+  description = "Fourth year cybersecurity student focused on Blue Team operations. Interested in system protection, log analysis, and incident response."
   profile_image = "/images/your-profile.jpg" # Place in your site's static/images/
   # Social links
-  github = "https://github.com/yourusername"
-  twitter = "https://twitter.com/yourusername"
-  linkedin = "https://linkedin.com/in/yourusername"
-  email = "your.email@example.com"
+  github = "https://github.com/MikolajWysocki"
+  linkedin = "https://www.linkedin.com/in/miko%C5%82aj-wysocki-246b31363/"
+  email = "mikolajwysocki9999@gmail.com"
   # ... other social links ...
 
 
 [[certifications]]
-title = "Azure AI Engineering Specialist"
-date = "Dec 2024"
-url = "https://example.com/cert-azure"
+title = "CompTIA CySa+"
+date = "IN PROGRESS"
+url = "https://www.comptia.org/en-us/certifications/cybersecurity-analyst/"
 
 [[honors]]
-institution = "Generic College"
-title = "Academic Topper"
-date = "March 2023"
+institution = "Wroclaw University of Science and Technology"
+title = "Bachelor of Science in Cybersecurity"
+date = "2022-2027 (Expected)"
 
 [voluntary]
-role = "Community Lead"
-organization = "Lorem Foundation"
-period = "2020 - Present"
-description = "Sed ut perspiciatis unde omnis iste natus error sit vol"
+role = "Director of Administration"
+organization = "IT Speakers Toastmasters"
+period = "06.2025 - Present"
+description = "Maganing administrative tasks, developing various soft skills and supporting members in their public speaking journey."
