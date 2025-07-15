@@ -2,5 +2,5 @@
 title = "SOC Automation Lab"
 description = "A cybersecurity monitoring and response system using Shuffle, Wazuh and TheHive."
 tech = "Wazuh, Shuffle, TheHive"
-image = "/images/projects/diagramprojektu.png"
+image = "/images/projects/soc_automation_lab_diagram.png"
 link = "https://github.com/MikolajWysocki/SOC-Automation-Project"
