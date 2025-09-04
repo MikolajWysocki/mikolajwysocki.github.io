@@ -1,7 +1,7 @@
 [[blogs]]
 title = "Deep Dive Into Digital Privacy and Suggestions For a Maximally Private System"
 date = "08.2025"
-summary = "A theoreticaly maximaly confidential system, accounting for ease of use, partnered by a high level overview of currently present confidentiality vectors."
+summary = "A deep dive into privacy in the digital environment, focusing on key vectors of privacy loss such as network usage, operating systems, and payment methods, and designing a confidential system that balances security with ease of use."
 tags = ["Confidentiality", "Cybersecurity"]
 content = """
 08.2025
