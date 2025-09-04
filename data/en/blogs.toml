@@ -1,10 +1,10 @@
 [[blogs]]
-title = "Confidentiality System"
-date = "IN PROGRESS"
+title = "Deep Dive Into Digital Privacy and Suggestions For a Maximally Private System"
+date = "08.2025"
 summary = "A theoreticaly maximaly confidential system, accounting for ease of use, partnered by a high level overview of currently present confidentiality vectors."
-tags = ["Confidentiality", "Linux"]
+tags = ["Confidentiality", "Cybersecurity"]
 content = """
-IN PROGRESS
+08.2025
 """
 link = "https://medium.com/"
 
